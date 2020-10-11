@@ -1,0 +1,58 @@
+[
+{"title":"Mahar",
+"logo":"https://1.bp.blogspot.com/-93zrrdGMwzg/X2YMP-T3hhI/AAAAAAAAABo/C1mIl6vqLxYJueEYga1XNUbx_8IcLAHQwCLcBGAsYHQ/s225/mahar.png",
+"link":"https://live.mahar.tv/channel/mahar-ooredoo.smil/mahar-ooredoo.m3u8"},
+
+{"title":"MNTV",
+"logo":"https://1.bp.blogspot.com/-3bbDl7mf_2M/X2YMQhdfpeI/AAAAAAAAABs/peWQUEEIgTEpwwoVGV3oYi6Z2MAfL__GgCLcBGAsYHQ/s225/mntv.jpg",
+"link":"https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8"},
+  
+ {"title":"Channel K",
+"logo":"https://www.channelkmyanmar.com/img/logo/logo.png",
+"link":"https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8"},
+ 
+ {"title":"MRTV-4",
+"logo":"http://static.pyoneplay.com/static/channel/ch_logo_1578471575.png",
+"link":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/playlist.m3u8"},
+ 
+ {"title":"Mizzima TV",
+"logo":"http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png",
+"link":"http://220.158.149.28:8180/TV00000000000000000170@HHZT?checkedby:iptvcat.com"},
+ 
+ {"title":"Channel 7",
+"logo":"https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Channel7_logo.png/200px-Channel7_logo.png",
+"link":"https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/playlist.m3u8"},
+ 
+  {"title":"Mahar Bawdi",
+"logo":"https://vignette.wikia.nocookie.net/logopedia/images/8/8b/Mahar_bawdi_TV.png",
+"link":"https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/playlist.m3u8"},
+ 
+  {"title":"Channel 9",
+"logo":"https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel9-120x120-a44.jpg",
+"link":"https://edge-stream-05.otv.co.th/mmplay/channel9/chunklist_w1383033023.m3u8"},
+ 
+ {"title":"MRTV",
+"logo":"https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv-120x120-a44.jpg",
+"link":"http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8"},
+ 
+ {"title":"Sony Movies",
+"logo":"https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png",
+"link":"http://51.52.156.22:8888/http/009"},
+ 
+ {"title":"PPTV",
+"logo":"https://www.usepng.com/wp-content/uploads/2020/04/89-892218_pptv-hd-pptv-300x74.png",
+"link":"http://183.182.100.184/live/pptvthai/playlist.m3u8?checkedby:iptvcat.com"},
+ 
+  {"title":"1 BEIN SPORTS",
+"logo":"https://1.bp.blogspot.com/-QLuA-qNuFWE/X3CIPROtXwI/AAAAAAAAAEI/PZLjzZv5dn4ey9Fs4Q5bYvPmEpJZRMCCACLcBGAsYHQ/s0/download.jpg",
+"link":"http://fariszah.myq-see.com:8008/live/demo/demo/2322.ts?checkedby:hlscat.com"},
+ 
+  {"title":"2 BEIN SPORTS",
+"logo":"https://1.bp.blogspot.com/-QLuA-qNuFWE/X3CIPROtXwI/AAAAAAAAAEI/PZLjzZv5dn4ey9Fs4Q5bYvPmEpJZRMCCACLcBGAsYHQ/s0/download.jpg",
+"link":"http://fariszah.myq-see.com:8008/live/demo/demo/21549.ts?checkedby:hlscat.com"},
+ 
+ {"title":"3 BEIN SPORTS",
+"logo":"https://1.bp.blogspot.com/-QLuA-qNuFWE/X3CIPROtXwI/AAAAAAAAAEI/PZLjzZv5dn4ey9Fs4Q5bYvPmEpJZRMCCACLcBGAsYHQ/s0/download.jpg",
+"link":"http://fariszah.myq-see.com:8008/live/demo/demo/21549.ts?checkedby:hlscat.com"}
+ 
+]
