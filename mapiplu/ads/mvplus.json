@@ -1,8 +1,18 @@
 [
-  {
-"ad":true,
-"poster":"https://1.bp.blogspot.com/-2OyRqeW00i0/X4MRzgPyB9I/AAAAAAAACHE/pK0udqACyzwFVJA3Ho2SmF2pn4oDeBLfQCLcBGAsYHQ/s1920/PicsArt_10-11-07.53.42.jpg",
-"text":"Come back later",
-"link":"https://m.facebook.com/bmoviesapp"
+ {
+"ad":false,
+"poster":"https://identity-mag.com/wp-content/uploads/2020/09/mulan-2020.png",
+"text":"Mulan (2020)",
+"link":"https://m.facebook.com"
+},{
+"ad":false,
+"poster":"https://image.tmdb.org/t/p/w533_and_h300_bestv2/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg",
+"text":"Money Heist(2017)",
+"link":""
+},{
+"ad":false,
+"poster":"https://n-cdn.serienjunkies.de/hq/103602.jpg",
+"text":"The School Nurse Files(2020)",
+"link":""
 }
 ]
