@@ -3,6 +3,31 @@
 "Bolseries":false,
 "type":"movie",
  "season":"",
+ "cate":"Drama,Family,Bollywood",
+"title":"Gayatri (2018)",
+"poster":"https://m.media-amazon.com/images/M/MV5BYzhjOGJjNDYtNjQ2Zi00ZjkwLWIyNzQtZTlhZDEyNDdhYmE5XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR3,0,182,268_AL_.jpg",
+"rate":"6.4",
+ 
+ "movie":{
+"sd":"103129641523072",
+"sdZ":"SD + HD",
+"hd":"103129641523072",
+"hdZ":"SD + HD",
+"fhd":"103129641523072",
+"fhdZ":"SD + HD"
+ },
+ "serie":[
+ {"ep":"",
+ "link":""},{"ep":"",
+ "link":""}
+ ],
+"review":"ဒီတခေါက်တင်ဆက်ပေးမယ့်ဇာတ်လမ်းလေးကတော့ ဘဝမှာ လောကကိုကောင်းကျိုးပြုတဲ့နေထိုင်မှုတွေ နဲ့ ဖြတ်သန်းနေပြီး ပျောက်ဆုံးနေတဲ့သမီးကိုရှာနေတဲ့ မင်းသားကြီး Dasari Sivaji(Mohan Babu) အကြောင်းအရင်းအမှန်ကိုမသိဘဲ ဖခင်ကိုအမုန်းကြီးမုန်းနေတဲ့ သမီး Gayathri(Nikhila Vimal) သရုပ်ဆောင်အမှုမှာ တဖက်ကမ်းခတ်ထူးချွန်လို့ ဇာတ်စင်ပေါ်မှာသာမဟုတ်ဘဲ တကယ့်ဘဝမှာပါ အစားထိုးသရုပ်ဆောင်နေထိုင်မှုတွေလုပ်တဲ့ အဖေရဲ့ အလုပ်အကိုင်... ဘဝတဆစ်ချိုးပြောင်းလဲမူတွေ... အိန္ဒိယနိုင်ငံရဲ့ နိုင်ငံရေးအခြေအနေတွေကိုမျက်ဝါးထင်ထင်မြင်ရမယ့်... ဇာတ်ကားကောင်းတကားဖြစ်ပါတယ်
+crd gc"
+},
+{
+"Bolseries":false,
+"type":"movie",
+ "season":"",
  "cate":"Comedy,Romance,Bollywood",
 "title":"Ginny Weds Sunny(2020)",
 "poster":"https://image.tmdb.org/t/p/w185/EC3K9Zv7uzpXomJWuRMiQH9g5V.jpg",
