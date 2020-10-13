@@ -2855,10 +2855,10 @@ crd cm
 "rate":"8.0",
  
  "movie":{
-"sd":"126372705877483",
+"sd":"https://drive.google.com/file/d/13R5r-RoSXxsV68bONxwYLCheQ3HTmee2/view?usp=drivesdk",
 "sdZ":"SD + HD",
-"hd":"109121004281991",
-"hdZ":"SD + HD",
+"hd":"https://drive.google.com/file/d/1Xn621b_0ft0yZTtK3zNjfrYx_osGGFcx/view?usp=drivesdk",
+"hdZ":"SD + HD + Full HD",
 "fhd":"",
 "fhdZ":"NON"
  },
