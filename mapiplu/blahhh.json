@@ -204,8 +204,8 @@ crd cm
 "type":"movie",
  "season":"1,2,3",
  "cate":"Action,Comedy,Family",
-"title":"https://channelmyanmar.org/wp-content/uploads/2020/09/cat-and-dog-paws.jpg",
-"poster":"Cats & Dogs Collection",
+"title":"Cats & Dogs Collection",
+"poster":"https://channelmyanmar.org/wp-content/uploads/2020/09/cat-and-dog-paws.jpg",
 "rate":"",
  
  "movie":{
