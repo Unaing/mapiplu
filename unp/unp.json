@@ -3,7 +3,7 @@
 "thum":"https://1.bp.blogspot.com/-pkavFSRoeZg/X6_8grxsUqI/AAAAAAAACKo/9L0B7GFnLdkbM4x25by2hcWWj4i5nNKawCLcBGAsYHQ/s1622/FB_IMG_1605368506738.jpg",
 "name":"Kit Kit",
 "source":"https://www.facebook.com/wutthmoneshweyi",
- "video":["avi":true,"vd_link":""],
+ "video":{"avi":true,"vd_link":""},
 "pgroup":[
 {"img":"https://1.bp.blogspot.com/-pkavFSRoeZg/X6_8grxsUqI/AAAAAAAACKo/9L0B7GFnLdkbM4x25by2hcWWj4i5nNKawCLcBGAsYHQ/s1622/FB_IMG_1605368506738.jpg"},
 {"img":"https://1.bp.blogspot.com/-yHO6CdDubLU/X6_8fwZhTJI/AAAAAAAACKk/FCGjfGuk3tU8fkp3kDtW6PiPWmhtVhQcQCLcBGAsYHQ/s1622/FB_IMG_1605368509233.jpg"},
@@ -24,14 +24,14 @@
  { "thum":"https://1.bp.blogspot.com/-vugKeoAfnDo/X6DmQfkcmTI/AAAAAAAACKA/81-cfSzN02sO0XI-MIWCnwqpMaAODm5AwCLcBGAsYHQ/s420/tumblr_1d4f157e74416670668a30c541bde0b7_f5e081f4_400.gif",
 "name":"Gal Gadot",
 "source":"https://www.facebook.com",
- "video":["avi":false,"vd_link":""],
+ "video":{"avi":false,"vd_link":""},
 "pgroup":[
 {"img":"https://1.bp.blogspot.com/-vugKeoAfnDo/X6DmQfkcmTI/AAAAAAAACKA/81-cfSzN02sO0XI-MIWCnwqpMaAODm5AwCLcBGAsYHQ/s420/tumblr_1d4f157e74416670668a30c541bde0b7_f5e081f4_400.gif"}
 ]},
  { "thum":"https://1.bp.blogspot.com/-zGSBr1S5D1w/X57Rq42_X4I/AAAAAAAACJk/G7jIgEQCZJMUoLZWuxKFlG47xVGqCWujACLcBGAsYHQ/s1080/FB_IMG_16042",
 "name":"မမ ပိုး",
 "source":"www.facebook.com",
- "video":["avi":false,"vd_link":""],
+ "video":{"avi":false,"vd_link":""},
 "pgroup":[
 {"img":"https://1.bp.blogspot.com/-zGSBr1S5D1w/X57Rq42_X4I/AAAAAAAACJk/G7jIgEQCZJMUoLZWuxKFlG47xVGqCWujACLcBGAsYHQ/s1080/FB_IMG_1604243756564.jpg"},
 {"img":"https://1.bp.blogspot.com/-br6bhdAJevQ/X57Rq90L56I/AAAAAAAACJo/ZDdQlRGHVckBBDjlCseqMMv-tCeFkanEwCLcBGAsYHQ/s1080/FB_IMG_1604243758964.jpg"},
@@ -42,7 +42,7 @@
  "thum":"https://1.bp.blogspot.com/-RkJrtiimcic/X51Fq5VOf4I/AAAAAAAACJI/UTZBjWHcQZAX4ZLNs-PKVqL69dr1cSjmgCLcBGAsYHQ/s1350/Instagram_d9_1602220402057.jpg",
 "name":"Thai",
 "source":"instagram",
- "video":["avi":false,"vd_link":""],
+ "video":{"avi":false,"vd_link":""},
 "pgroup":[
 {"img":"https://1.bp.blogspot.com/-RkJrtiimcic/X51Fq5VOf4I/AAAAAAAACJI/UTZBjWHcQZAX4ZLNs-PKVqL69dr1cSjmgCLcBGAsYHQ/s1350/Instagram_d9_1602220402057.jpg"},
 {"img":"https://1.bp.blogspot.com/-RkJrtiimcic/X51Fq5VOf4I/AAAAAAAACJI/UTZBjWHcQZAX4ZLNs-PKVqL69dr1cSjmgCLcBGAsYHQ/s1350/Instagram_d9_1602220402057.jpg"}
@@ -51,7 +51,7 @@
   "thum":"https://1.bp.blogspot.com/-VH3grY2a6eE/X51FnqDGHVI/AAAAAAAACJA/c_cJQGzfSNMaPMjcUdOHxZgYuQ7AUeHSgCLcBGAsYHQ/s1350/Instagram_d9_1602216364968.jpg",
 "name":"ဝတ်မှုန်ေရွှရည်",
 "source":"instagram",
- "video":["avi":false,"vd_link":""],
+ "video":{"avi":false,"vd_link":""},
 "pgroup":[
 {"img":"https://1.bp.blogspot.com/-VH3grY2a6eE/X51FnqDGHVI/AAAAAAAACJA/c_cJQGzfSNMaPMjcUdOHxZgYuQ7AUeHSgCLcBGAsYHQ/s1350/Instagram_d9_1602216364968.jpg"},
 {"img":"https://1.bp.blogspot.com/-VH3grY2a6eE/X51FnqDGHVI/AAAAAAAACJA/c_cJQGzfSNMaPMjcUdOHxZgYuQ7AUeHSgCLcBGAsYHQ/s1350/Instagram_d9_1602216364968.jpg"},
